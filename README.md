@@ -1,35 +1,67 @@
-# Lab 01 – Node.js and Express.js Server
+# Lab 3 – REST API
 
-## Student Details
-- **Name:** Nandishwar Reddy
-- **Section:** AIML 2B
+**Name:** H. Nandishwar Reddy
+**Section:** AIML 2B
+**Registration Number:** 252U1R6097
 
 ## Project Description
-This project demonstrates how to create a basic web server using Node.js and Express.js.
 
-## Features
-- Home route (`/`)
-- About route (`/about`)
-- Time route (`/time`)
-- Custom 404 error page
+This project demonstrates REST API development using Node.js, Express.js and SQLite. It supports book management operations such as creating, reading, updating and deleting books.
 
 ## Technologies Used
+
 - Node.js
 - Express.js
-- JavaScript
+- SQLite
+- Postman
 
 ## Installation
+
 ```bash
 npm install
 ```
 
-## Run the Server
+## Run the Project
+
 ```bash
-node app.js
+npm start
 ```
 
-## Local URL
-http://localhost:3000/
+Server URL: `http://localhost:3000`
+
+## API Endpoints
+
+| Method | Endpoint | Description      |
+| ------ | -------- | ---------------- |
+| GET    | /books   | Get all books    |
+| GET    | /books/  | Get a book by ID |
+| POST   | /books   | Add a new book   |
+| PUT    | /books/  | Update a book    |
+| DELETE | /books/  | Delete a book    |
+
+## Query Parameters
+
+- `search_q` – Search books by title
+- `order_by` – Sort by a field
+- `order` – ASC or DESC
+- `limit` – Number of records
+- `offset` – Starting position
+- `min_price` – Minimum price
+- `max_price` – Maximum price
+
+## Validation and Error Handling
+
+- 200 – Successful request
+- 201 – Book created
+- 400 – Invalid input
+- 404 – Book not found
+- 500 – Server error
 
 ## Screenshots
-Screenshots are available in the screenshots folder.
+
+Postman testing screenshots are available in the `screenshots` folder.
+
+## Deployment
+
+**Live URL:** https://backend-development-fundamentals-n5a8.onrender.com/
+**Books API:** https://backend-development-fundamentals-n5a8.onrender.com/books
