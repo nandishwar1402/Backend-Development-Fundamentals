@@ -66,6 +66,8 @@ lab-04/
 │
 └── users.db
 ```
+![alt text](<Screenshot 2026-11-17 073917.png>) ![alt text](<Screenshot 2026-11-17 074209.png>) ![alt text](<Screenshot 2026-11-17 074356.png>) ![alt text](<Screenshot 2026-11-17 075334.png>) ![alt text](<Screenshot 2026-11-17 075632.png>) ![alt text](<Screenshot 2026-11-17 075808.png>) ![alt text](<Screenshot 2026-11-17 080035.png>)
+![alt text](<Screenshot 2026-11-17 080641.png>) ![alt text](<Screenshot 2026-11-17 081628.png>) ![alt text](<Screenshot 2026-11-17 081712.png>)
 
 **File Description:**
 
