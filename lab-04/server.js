@@ -10,6 +10,9 @@ const PORT = process.env.PORT || 3000;
 const JWT_SECRET = "my_secret_key";
 
 app.use(express.json());
+app.get("/", (req, res) => {
+    res.send("Lab 04 JWT Authentication API is running successfully!");
+});
 
 let db;
 
