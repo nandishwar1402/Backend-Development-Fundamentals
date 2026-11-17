@@ -33,6 +33,17 @@ The main objective of this lab is to understand backend development concepts, RE
 | GitHub | Source code hosting |
 | Render | Application deployment |
 
+<img width="1917" height="1078" alt="Screenshot 2026-11-17 073917" src="https://github.com/user-attachments/assets/e68d4a0c-437e-4d51-b6f7-d2eaae03ecbf" />
+<img width="1917" height="1042" alt="Screenshot 2026-11-17 074209" src="https://github.com/user-attachments/assets/7faa454e-e24b-4c2c-afdc-fd5d68f366a2" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-17 074356" src="https://github.com/user-attachments/assets/2e73ab69-7cbf-40fb-88a6-27475f7300db" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-17 075334" src="https://github.com/user-attachments/assets/985fac19-d021-4c25-9c91-b25207f489aa" />
+<img width="1917" height="1028" alt="Screenshot 2026-11-17 075632" src="https://github.com/user-attachments/assets/7ea661b0-2bab-4f84-ad89-7adb1772a8db" />
+<img width="1917" height="1035" alt="Screenshot 2026-11-17 075808" src="https://github.com/user-attachments/assets/dff2b2a6-27d8-4f29-905c-b23b3fbee96d" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-17 080035" src="https://github.com/user-attachments/assets/77b2583e-6578-4d49-aadc-a1c6f2f80bd8" />
+<img width="1911" height="985" alt="Screenshot 2026-11-17 080641" src="https://github.com/user-attachments/assets/2e7e8530-1a5f-43c4-9bd5-0ebe26035cb0" />
+<img width="1917" height="1027" alt="Screenshot 2026-11-17 081628" src="https://github.com/user-attachments/assets/6dc15dfe-7f1f-420e-a5a1-4bbc8aab0237" />
+<img width="1917" height="1025" alt="Screenshot 2026-11-17 081712" src="https://github.com/user-attachments/assets/68dcfb9e-56e8-4b84-b502-d8c5600c4308" />
+
 ## 4. Project Objectives
 
 1. To understand Node.js and Express.js.
